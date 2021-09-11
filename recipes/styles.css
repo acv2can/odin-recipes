@@ -25,7 +25,8 @@ p {
     font-weight: 250;
 }
 .ingredients,
-.steps {
+.steps,
+.links {
     font-family:'Lobster', cursive;
     font-size: 40px;
     color:rgb(236, 71, 71);

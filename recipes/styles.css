@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+    color:rgb(236, 71, 71);
+    text-align: center;
+    font-weight: 350;
+    background-color:rgb(243, 212, 212);
+}
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    color:rgb(236, 71, 71);
+    text-align: center;
+    font-weight: 300;
+    background-color:rgb(243, 212, 212);
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:rgb(121, 85, 85);
+    text-align: center;
+    font-weight: 250;
+}
+h3 {
+    font-family:'Lobster', cursive;
+    font-size: 30px;
+    color:rgb(236, 71, 71);
+    text-align: center;
+    font-weight: 100px;
+    background-color:rgb(243, 212, 212);
+}
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:rgb(121, 85, 85);
+    text-align: left;
+    font-weight: 250;
+}
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(121, 85, 85);
+    text-align: left;
+    font-weight: 250;
+}
